@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/bergthora15/stringCalcWeb.svg?branch=master)](https://travis-ci.org/bergthora15/stringCalcWeb)
 Software Engineering (C-T-303-HUGB), Week 10 Fall Semester 2017
 
 # Continuous Integration with Travis & Heroku
